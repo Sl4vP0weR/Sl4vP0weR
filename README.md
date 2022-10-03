@@ -7,6 +7,8 @@
 
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=sl4vp0wer&show_icons=true&theme=radical" alt="sl4vp0wer" />
+  <br />
+  <br />
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sl4vp0wer&langs_count=10&show_icons=true&theme=radical&layout=compact" alt="sl4vp0wer" />
 </p>
 
