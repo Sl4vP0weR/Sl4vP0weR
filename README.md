@@ -60,7 +60,7 @@
   <br />
 
   <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer">
-    <img src="https://user-images.githubusercontent.com/42337892/193646971-70d8bfc0-c8d9-49bf-a416-30ac5fa850b9.png" alt="dotnet-framework" width="40" height="40"/>
+    <img src="https://user-images.githubusercontent.com/42337892/193756820-631ff10b-ef9c-4339-b0f6-3ad04065cacc.png" alt="dotnet-framework" width="40" height="40"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="winforms" width="40" height="40"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" alt="dotnet-core" width="40" height="40"/>
   </a>
@@ -72,8 +72,9 @@
   </a>
 
   <a href="https://github.com/dotnet/aspnetcore" target="_blank" rel="noreferrer">
-    <img src="https://user-images.githubusercontent.com/42337892/193629695-ffbf8789-e211-4d52-9fdb-3160d8430b36.png" alt="aspnet-core" width="40" height="40"/>
+    <img src="https://user-images.githubusercontent.com/42337892/193756766-b885dbc9-0987-4a6b-8a34-eb097bfd0e4c.png" alt="aspnet-core" width="40" height="40"/>
   </a>
+
   <a href="https://blazor.net" target="_blank" rel="noreferrer">
     <img src="https://user-images.githubusercontent.com/42337892/193645415-48d5bd3d-d6f0-4f04-a06a-d33e971a3724.png" alt="blazor" width="40" height="40"/>
   </a>
