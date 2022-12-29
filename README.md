@@ -15,7 +15,7 @@
 
 <p align="center">
   <br />
-  <a href="https://discordapp.com/users/593054853228396545/" target="_blank" rel="noreferrer"> 
+  <a href="https://discordlookup.com/user/593054853228396545" target="_blank" rel="noreferrer"> 
     <img src="https://user-images.githubusercontent.com/42337892/193638985-ff6c559d-c8b1-4ad6-8e85-dbc228eafa1d.png" alt="discord" width="40" height="40"/>
   </a>
   <a href="https://t.me/sl4vp0wer" target="_blank" rel="noreferrer">
