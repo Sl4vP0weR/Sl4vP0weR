@@ -21,6 +21,4 @@
   <a href="https://t.me/sl4vp0wer" target="_blank" rel="noreferrer">
     <img src="https://user-images.githubusercontent.com/42337892/193600956-2ded586e-18eb-45d5-8c72-afb779e0f696.png" alt="telegram" width="40" height="40"/>
   </a>
-  <a href="https://boosty.to/sl4vp0wer" target="_blank" rel="noreferrer">
-    <img src="https://user-images.githubusercontent.com/42337892/193754697-a8bd64ef-09dc-43dd-9e85-143bba658746.png" alt="boosty" width="40" height="40"/>
 </p>
